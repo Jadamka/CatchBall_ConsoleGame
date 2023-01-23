@@ -1,0 +1,8 @@
+C:\Users\Adamka.2019\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Adamka.2019\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Adamka.2019\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Adamka.2019\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Adamka.2019\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adamka.2019\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Adamka.2019\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Adamka.2019\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
